@@ -42,7 +42,6 @@ cd toko-online-laravel
 
 ```bash
 composer install
-npm install && npm run dev
 ```
 
 ### 3. Copy .env dan generate key
