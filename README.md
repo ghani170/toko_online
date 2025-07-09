@@ -97,9 +97,9 @@ Untuk menjadikan user sebagai admin:
 
 ---
 
-## ✅ Rencana Fitur Tambahan
+## 📄 Catatan
 
-*
+*Belum tersedia payment gateway
 
 ---
 
