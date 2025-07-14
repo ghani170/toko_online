@@ -34,8 +34,8 @@ Fitur utama mencakup login, dashboard admin, manajemen produk, dan tampilan toko
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/nama-kamu/toko-online-laravel.git
-cd toko-online-laravel
+git clone https://github.com/
+cd toko-online
 ```
 
 ### 2. Install dependency
